@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<OX>
+    <OXMENU id="NAVIGATION_ESHOPADMIN">
+        <MAINMENU id="mxorders">
+		<SUBMENU id="jxsales_menu" cl="jxsales">
+		</SUBMENU>
+	</MAINMENU>
+    </OXMENU>
+</OX>
