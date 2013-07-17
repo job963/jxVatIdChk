@@ -21,7 +21,7 @@ $aModule = array(
     'url'          => 'https://github.com/job963/jxVatIdChk',
     'email'        => 'jobarthel@gmail.com',
     'extend'       => array(
-        'oxuser' => 'jxvatidchk/application/controllers/admin/jxvatidchk'
+        'oxuser' => 'jxmods/jxvatidchk/application/controllers/admin/jxvatidchk'
                         ),
     'files'        => array(
                         ),
